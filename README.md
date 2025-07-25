@@ -1,5 +1,9 @@
 # clash-
-我在不同网站下载Clash.for.Windows.Setup.0.20.39版本，经过计算SHA256值都为：477274ce22d30559ae5df8d41b0adb0a8461be0501d26a0500452ab68c650608
+我在不同网站下载Clash.for.Windows.Setup.0.20.39版本，
+
+经过计算SHA256值都为：477274ce22d30559ae5df8d41b0adb0a8461be0501d26a0500452ab68c650608
+
+
 所以几乎能够确定如果sha256值为这个的即为正版，上传到GitHub方便自己后续下载，大家要用自己甄别，此版本叫不负责版！
 
 
